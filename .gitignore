@@ -1,0 +1,6 @@
+node_modules
+package-lock.json
+.env
+logs
+yarn.lock
+material-resume_free_1-2-1.zip
